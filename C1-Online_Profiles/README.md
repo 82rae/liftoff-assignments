@@ -15,6 +15,5 @@ linked.com/in/rae-crouch-a9678a52
 
 ### Resume
 
-file:///C:/Users/Rae/Documents/rae%20upload.pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
